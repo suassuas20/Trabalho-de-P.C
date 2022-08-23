@@ -1,0 +1,5 @@
+ body {
+     background-color: blue;
+     color: rgb(194, 167, 167);
+     color-interpolation-filters: linearRGB;
+ }
